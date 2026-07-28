@@ -1,0 +1,1 @@
+web: uvicorn ekg_ai_pro:app --host 0.0.0.0 --port $PORT
