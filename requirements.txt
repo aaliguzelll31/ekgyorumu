@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-google-generativeai
-Pillow
-requests
-numpy
-python-multipart
